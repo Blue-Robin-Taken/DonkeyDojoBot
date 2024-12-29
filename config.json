@@ -1,7 +1,9 @@
 {
   "OWNER": 335184101701058562,
   "GemBot": {
-    "GemEmoji": "💎"
+    "GemEmoji": "💎",
+    "minCount": 2,
+    "channelID": 1044723413081657355
   },
   "cogs_folder": "./cogs"
 }
